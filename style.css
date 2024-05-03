@@ -1,0 +1,76 @@
+.bimg{
+    background-image: url('assets/home/background-home-desktop.jpg');
+    width: 100vw;
+    height: 100vh;
+}
+*{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+.s{
+    padding-top:130px;
+    margin-right: 100px;
+    
+
+}
+.sp{
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+.circle{
+    height: 200px;
+   width: 200px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 75%;
+    margin-left: 55%;
+}
+.p{
+margin-top: 80px;
+}
+.bim{
+    background-image: url('assets/destination/background-destination-desktop.jpg');
+    width: 100vw;
+    height: 100vh;
+}
+.z{
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+hr{
+    color: aliceblue;
+}
+.f{
+    font-size: 10.5px;
+}
+h6{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+.bi{
+    background-image: url('assets/crew/background-crew-desktop.jpg');
+    width: 100vw;
+    height: 100vh;
+}
+.m{
+    margin-left: 150px;
+}
+.fs{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+.bit{
+    background-image: url('assets/technology/background-technology-desktop.jpg');
+    width: 100vw;
+    height: 100vh;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
